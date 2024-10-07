@@ -29,7 +29,8 @@
 
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yours-majesty&layout=compact&theme=radical)](https://github.com/yours-majesty/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yours-majesty&theme=radical)](https://github.com/yours-majesty/github-readme-stats)
+
 </div>
 
 <br>
