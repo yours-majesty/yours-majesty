@@ -10,7 +10,7 @@
 
 <div align="center" width="50%">
   <p> Coding is my love language :) </p>
-  <img src="https://github.com/yours-majesty/yours-majesty/main/good.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
+  <img src="https://github.com/yours-majesty/yours-majesty/blob/main/good.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   <br>
   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
   <!-- Streak feature -->
