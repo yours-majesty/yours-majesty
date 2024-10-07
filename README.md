@@ -21,7 +21,6 @@
 </div>
 
 ---
-
 <h2 align="center">⚡ GitHub Overview ⚡</h2>
 
 <div align="center">
@@ -31,6 +30,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yours-majesty&theme=github_dark" alt="GitHub Stats"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yours-majesty&theme=github_dark" alt="Productive Time"/>
 </div>
+
 
 ---
 
