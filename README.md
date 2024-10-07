@@ -26,9 +26,10 @@
 </div>
 
 <br>
+
+
 <div align="center">
-  <!-- GitHub Trophies -->
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=yours-majesty&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" /> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yours-majesty&layout=compact&theme=radical)](https://github.com/yours-majesty/github-readme-stats)
 </div>
 
 <br>
