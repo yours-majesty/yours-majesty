@@ -1,10 +1,10 @@
 <h1 align="center"> Hey!! I'm Himanshu Dinkar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/himanshu-dinkar-722612240/"> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Ananya LinkedIn" height='20' width='90'/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Himanshu Dinkar LinkedIn" height='20' width='90'/>
   </a>
-  <a href="https://github.com/ananyag309"> 
-    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
+  <a href="https://github.com/yours-majesty"> 
+    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Himanshu Dinkar GitHub" height='20' width='80'/>  
   </a>
 </p>
 
@@ -14,7 +14,7 @@
   <br>
   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
   <!-- Streak feature -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyag309&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ananya's GitHub Streak" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yours-majesty&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Himanshu's GitHub Streak" /></p>
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 <br>
 <div align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yours-majesty&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=yours-majesty&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" /> -->
 </div>
 
 <br>
